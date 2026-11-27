@@ -23,8 +23,8 @@ A simple terminal-based typing test written in Rust using Ratatui.
 Clone the repository:
 
 ```bash
-git clone https://github.com/medapro1919/rust-type.git
-cd rust-type
+git clone https://github.com/medapro1919/typing-test-in-terminal-.git
+cd typing-test-in-terminal-
 ```
 
 Build and run:
